@@ -1,5 +1,7 @@
 # Human vs Stockfish
 
+# Play Link: https://lucasli1337unknown.github.io/HumanVSStockfishEngine/
+
 A browser chess game where a human plays against Stockfish 18 Lite WASM.
 
 ## IMPORTANT
